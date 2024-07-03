@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Main Page</title>
+</head>
+<body> 
+<p>My Main Page</p>
+<a href="roseanneHtml" target="_blank">First HTML</a>
+<a href="roseanneHtml1" target="_self">Second HTML</a>
+<a href="roseanneHtml2" target="_parent">Third HTML</a>
+<a href="roseanneHtml3" target="_top">Fourth HTML</a>
+</body>
+</html>
